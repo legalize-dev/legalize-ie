@@ -1,0 +1,17 @@
+LEGALIZE — Ireland: legislation as open data
+
+SOFTWARE / PIPELINE
+The software that generates and maintains this repository is open source
+under the MIT License:
+  https://github.com/legalize-dev/legalize-pipeline
+
+LEGISLATIVE CONTENT (DATA)
+Oireachtas (Open Data) PSI Licence, incorporating Creative Commons Attribution 4.0 International (CC BY 4.0): https://www.oireachtas.ie/en/open-data/license/. eISB publishes these terms at https://www.irishstatutebook.ie/open-data.html; the Law Reform Commission confirmed their application to Revised Acts on 8 October 2026.
+These are official public-sector texts reproduced from their official
+source. The original source of each document is recorded in the `source`
+field of that file's YAML front matter.
+
+DISCLAIMER
+Automated reproduction of official sources. This is not an official or
+verified legal text. Always consult the official source for authoritative
+versions.

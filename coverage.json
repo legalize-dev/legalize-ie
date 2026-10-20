@@ -1,0 +1,49 @@
+{
+  "spec_version": "0.5",
+  "as_of": "2026-10-20",
+  "source_index": "Irish Statute Book, Acts by year (eISB)",
+  "discovered": 4115,
+  "published": 15696,
+  "excluded": [
+    {
+      "identifier": "IE-1981-si-319",
+      "reason": "ValueError: Malformed ISB HTML footnote definition"
+    },
+    {
+      "identifier": "IE-1985-si-414",
+      "reason": "ValueError: Unknown month in Irish source: 'of'"
+    },
+    {
+      "identifier": "IE-2000-si-185",
+      "reason": "ValueError: ISB HTML footnote marker disagrees with its anchor: 13"
+    },
+    {
+      "identifier": "IE-2001-si-194",
+      "reason": "ValueError: Malformed ISB HTML footnote definition"
+    },
+    {
+      "identifier": "IE-2003-si-479",
+      "reason": "ValueError: ISB HTML footnote marker disagrees with its anchor: *"
+    },
+    {
+      "identifier": "IE-2005-si-805",
+      "reason": "ValueError: ISB HTML footnote marker disagrees with its anchor: 8a"
+    },
+    {
+      "identifier": "IE-2006-si-625",
+      "reason": "ValueError: IE-2006-si-625: enacted has undefined normative footnotes: ['\\\\*\\\\*\\\\* within the meaning [S.I. No. 103 of 2006']"
+    },
+    {
+      "identifier": "IE-2007-si-505",
+      "reason": "ValueError: Malformed ISB HTML footnote definition"
+    },
+    {
+      "identifier": "IE-2010-si-94",
+      "reason": "ValueError: Malformed ISB HTML footnote definition"
+    }
+  ],
+  "laws_with_version_gaps": 11,
+  "version_gaps": 18,
+  "laws_with_undated_amendments": 77,
+  "undated_amendments": 161
+}
