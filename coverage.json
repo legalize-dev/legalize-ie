@@ -1,8 +1,8 @@
 {
   "spec_version": "0.5",
-  "as_of": "2026-10-20",
+  "as_of": "2026-11-02",
   "source_index": "Irish Statute Book, Acts by year (eISB)",
-  "discovered": 4115,
+  "discovered": 4117,
   "published": 15696,
   "excluded": [
     {
@@ -40,6 +40,14 @@
     {
       "identifier": "IE-2010-si-94",
       "reason": "ValueError: Malformed ISB HTML footnote definition"
+    },
+    {
+      "identifier": "IE-2026-act-37",
+      "reason": "HTTPError: 404 Client Error: Not Found for url: https://www.irishstatutebook.ie/eli/2026/act/37/enacted/en/print"
+    },
+    {
+      "identifier": "IE-2026-act-38",
+      "reason": "HTTPError: 404 Client Error: Not Found for url: https://www.irishstatutebook.ie/eli/2026/act/38/enacted/en/print"
     }
   ],
   "laws_with_version_gaps": 11,
