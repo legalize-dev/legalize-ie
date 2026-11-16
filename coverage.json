@@ -1,9 +1,9 @@
 {
   "spec_version": "0.5",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-16",
   "source_index": "Irish Statute Book, Acts by year (eISB)",
   "discovered": 4117,
-  "published": 15699,
+  "published": 15705,
   "excluded": [
     {
       "identifier": "IE-1981-si-319",
